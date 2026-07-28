@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-yox50e.radarsatu88.shop/sitemap.xml
